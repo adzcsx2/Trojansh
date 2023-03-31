@@ -18,6 +18,7 @@ YouTube频道：波仔分享
 apt install socat 
 
 BBR加速
+
 wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
 
 wget -N --no-check-certificate "https://raw.githubusercontent.com/adzcsx2/Trojansh/master/trojan1.sh" && chmod +x trojan1.sh && ./trojan1.sh
