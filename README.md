@@ -15,7 +15,11 @@ YouTube频道：波仔分享
 
 为了适合新手小伙伴，本代码分解三部分：
 
-apt install socat 
+新机器需要:
+`sudo apt update`
+`sodo apt upgrade`
+
+`apt install socat `
 
 BBRplus加速(需要运行2次，一次下载后重启，下载过程中，选项全部选右边的。重启后再次运行选中协议)
 
