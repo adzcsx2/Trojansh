@@ -17,7 +17,7 @@ YouTube频道：波仔分享
 
 新机器需要:
 `sudo apt update`
-`sodo apt upgrade`
+`sudo apt upgrade`
 
 `apt install socat `
 
