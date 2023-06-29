@@ -30,6 +30,8 @@ step1:
 `wget -N --no-check-certificate "https://raw.githubusercontent.com/adzcsx2/Trojansh/master/trojan1.sh" && chmod +x trojan1.sh && ./trojan1.sh`
 
 step2:
+设置默认证书
+`acme.sh --set-default-ca --server letsencrypt`
 
 `wget -N --no-check-certificate "https://raw.githubusercontent.com/adzcsx2/Trojansh/master/trojan2.sh" && chmod +x trojan2.sh && ./trojan2.sh`
 
